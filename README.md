@@ -61,5 +61,5 @@ Performance Breakdown: Charts and tables showing sales performance by brand, mob
 
 6. Screenshots / Demos
 Show what the dashboard looks like.
-Example: ()
+Example: (https://github.com/MohamedashickR/Mobile-Sales-Data-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
 
